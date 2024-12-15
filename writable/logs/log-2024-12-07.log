@@ -1,0 +1,1415 @@
+INFO - 2024-12-07 09:09:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-07 09:09:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-12-07 09:29:49 --> Error: Class "App\Models\PostModel" not found
+[Method: GET, Route: blog]
+in APPPATH/Controllers/Blog.php on line 12.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Blog->index()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/rewrite.php(44): require_once('/Applications/XAMPP/xamppfiles/htdocs/framework/public/index.php')
+CRITICAL - 2024-12-07 09:29:51 --> Error: Class "App\Models\PostModel" not found
+[Method: GET, Route: blog]
+in APPPATH/Controllers/Blog.php on line 12.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Blog->index()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/rewrite.php(44): require_once('/Applications/XAMPP/xamppfiles/htdocs/framework/public/index.php')
+CRITICAL - 2024-12-07 09:30:10 --> Error: Class "App\Models\PostModel" not found
+[Method: GET, Route: blog]
+in APPPATH/Controllers/Blog.php on line 12.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Blog->index()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/rewrite.php(44): require_once('/Applications/XAMPP/xamppfiles/htdocs/framework/public/index.php')
+CRITICAL - 2024-12-07 09:30:13 --> Error: Class "App\Models\PostModel" not found
+[Method: GET, Route: blog]
+in APPPATH/Controllers/Blog.php on line 12.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Blog->index()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/rewrite.php(44): require_once('/Applications/XAMPP/xamppfiles/htdocs/framework/public/index.php')
+CRITICAL - 2024-12-07 09:34:12 --> Error: Class "App\Models\PostModel" not found
+[Method: GET, Route: blog]
+in APPPATH/Controllers/Blog.php on line 12.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Blog->index()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/rewrite.php(44): require_once('/Applications/XAMPP/xamppfiles/htdocs/framework/public/index.php')
+CRITICAL - 2024-12-07 09:37:19 --> Error: Class "App\Models\PostModel" not found
+[Method: GET, Route: blog]
+in APPPATH/Controllers/Blog.php on line 12.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Blog->index()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/rewrite.php(44): require_once('/Applications/XAMPP/xamppfiles/htdocs/framework/public/index.php')
+CRITICAL - 2024-12-07 09:37:20 --> Error: Class "App\Models\PostModel" not found
+[Method: GET, Route: blog]
+in APPPATH/Controllers/Blog.php on line 12.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Blog->index()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/rewrite.php(44): require_once('/Applications/XAMPP/xamppfiles/htdocs/framework/public/index.php')
+CRITICAL - 2024-12-07 09:37:58 --> Error: Class "App\Models\PostModel" not found
+[Method: GET, Route: blog]
+in APPPATH/Controllers/Blog.php on line 12.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Blog->index()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/rewrite.php(44): require_once('/Applications/XAMPP/xamppfiles/htdocs/framework/public/index.php')
+INFO - 2024-12-07 09:39:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-12-07 09:41:07 --> Error: Class "App\Models\PostModel" not found
+[Method: GET, Route: blog]
+in APPPATH/Controllers/Blog.php on line 12.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Blog->index()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/rewrite.php(44): require_once('/Applications/XAMPP/xamppfiles/htdocs/framework/public/index.php')
+INFO - 2024-12-07 09:41:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-07 09:41:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-07 09:41:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-07 09:41:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-07 09:41:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-07 09:41:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-07 09:41:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-07 09:41:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-07 09:41:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-07 09:41:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-07 09:41:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-07 09:41:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-07 09:41:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-07 09:41:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-12-07 09:41:20 --> Error: Class "App\Models\PostModel" not found
+[Method: GET, Route: blog]
+in APPPATH/Controllers/Blog.php on line 12.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Blog->index()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/rewrite.php(44): require_once('/Applications/XAMPP/xamppfiles/htdocs/framework/public/index.php')
+INFO - 2024-12-07 09:41:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-12-07 09:46:19 --> Error: Class "App\Models\PostModel" not found
+[Method: GET, Route: blog]
+in APPPATH/Controllers/Blog.php on line 12.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Blog->index()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/rewrite.php(44): require_once('/Applications/XAMPP/xamppfiles/htdocs/framework/public/index.php')
+INFO - 2024-12-07 10:02:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-07 10:02:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-07 10:02:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-12-07 12:52:23 --> Error connecting to the database: mysqli_sql_exception: Connection refused in /Applications/XAMPP/xamppfiles/htdocs/framework/system/Database/MySQLi/Connection.php:187
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/framework/system/Database/MySQLi/Connection.php(187): mysqli->real_connect('127.0.0.1', 'root', '', 'blog_db', 3306, '', 0)
+#1 /Applications/XAMPP/xamppfiles/htdocs/framework/system/Database/BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 /Applications/XAMPP/xamppfiles/htdocs/framework/system/Database/BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#3 /Applications/XAMPP/xamppfiles/htdocs/framework/system/Database/BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /Applications/XAMPP/xamppfiles/htdocs/framework/system/Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#5 /Applications/XAMPP/xamppfiles/htdocs/framework/system/BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#6 /Applications/XAMPP/xamppfiles/htdocs/framework/app/Models/CategoryModel.php(11): CodeIgniter\BaseModel->findAll()
+#7 /Applications/XAMPP/xamppfiles/htdocs/framework/app/Controllers/Category.php(14): App\Models\CategoryModel->getAllCategories()
+#8 /Applications/XAMPP/xamppfiles/htdocs/framework/system/CodeIgniter.php(933): App\Controllers\Category->index()
+#9 /Applications/XAMPP/xamppfiles/htdocs/framework/system/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Category))
+#10 /Applications/XAMPP/xamppfiles/htdocs/framework/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 /Applications/XAMPP/xamppfiles/htdocs/framework/system/Boot.php(325): CodeIgniter\CodeIgniter->run()
+#12 /Applications/XAMPP/xamppfiles/htdocs/framework/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 /Applications/XAMPP/xamppfiles/htdocs/framework/public/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 /Applications/XAMPP/xamppfiles/htdocs/framework/system/rewrite.php(44): require_once('/Applications/X...')
+#15 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Connection refused in /Applications/XAMPP/xamppfiles/htdocs/framework/system/Database/MySQLi/Connection.php:231
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/framework/system/Database/BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 /Applications/XAMPP/xamppfiles/htdocs/framework/system/Database/BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#2 /Applications/XAMPP/xamppfiles/htdocs/framework/system/Database/BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 /Applications/XAMPP/xamppfiles/htdocs/framework/system/Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#4 /Applications/XAMPP/xamppfiles/htdocs/framework/system/BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#5 /Applications/XAMPP/xamppfiles/htdocs/framework/app/Models/CategoryModel.php(11): CodeIgniter\BaseModel->findAll()
+#6 /Applications/XAMPP/xamppfiles/htdocs/framework/app/Controllers/Category.php(14): App\Models\CategoryModel->getAllCategories()
+#7 /Applications/XAMPP/xamppfiles/htdocs/framework/system/CodeIgniter.php(933): App\Controllers\Category->index()
+#8 /Applications/XAMPP/xamppfiles/htdocs/framework/system/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Category))
+#9 /Applications/XAMPP/xamppfiles/htdocs/framework/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /Applications/XAMPP/xamppfiles/htdocs/framework/system/Boot.php(325): CodeIgniter\CodeIgniter->run()
+#11 /Applications/XAMPP/xamppfiles/htdocs/framework/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#12 /Applications/XAMPP/xamppfiles/htdocs/framework/public/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#13 /Applications/XAMPP/xamppfiles/htdocs/framework/system/rewrite.php(44): require_once('/Applications/X...')
+#14 {main}
+CRITICAL - 2024-12-07 12:52:23 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Connection refused
+[Method: GET, Route: category]
+in SYSTEMPATH/Database/BaseConnection.php on line 467.
+ 1 SYSTEMPATH/Database/BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `category`', [], false)
+ 3 SYSTEMPATH/Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH/BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH/Models/CategoryModel.php(11): CodeIgniter\BaseModel->findAll()
+ 6 APPPATH/Controllers/Category.php(14): App\Models\CategoryModel->getAllCategories()
+ 7 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Category->index()
+ 8 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Category))
+ 9 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH/rewrite.php(44): require_once('/Applications/XAMPP/xamppfiles/htdocs/framework/public/index.php')
+ERROR - 2024-12-07 12:52:26 --> Error connecting to the database: mysqli_sql_exception: Connection refused in /Applications/XAMPP/xamppfiles/htdocs/framework/system/Database/MySQLi/Connection.php:187
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/framework/system/Database/MySQLi/Connection.php(187): mysqli->real_connect('127.0.0.1', 'root', '', 'blog_db', 3306, '', 0)
+#1 /Applications/XAMPP/xamppfiles/htdocs/framework/system/Database/BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 /Applications/XAMPP/xamppfiles/htdocs/framework/system/Database/BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#3 /Applications/XAMPP/xamppfiles/htdocs/framework/system/Database/BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /Applications/XAMPP/xamppfiles/htdocs/framework/system/Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#5 /Applications/XAMPP/xamppfiles/htdocs/framework/system/BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#6 /Applications/XAMPP/xamppfiles/htdocs/framework/app/Models/CategoryModel.php(11): CodeIgniter\BaseModel->findAll()
+#7 /Applications/XAMPP/xamppfiles/htdocs/framework/app/Controllers/Category.php(14): App\Models\CategoryModel->getAllCategories()
+#8 /Applications/XAMPP/xamppfiles/htdocs/framework/system/CodeIgniter.php(933): App\Controllers\Category->index()
+#9 /Applications/XAMPP/xamppfiles/htdocs/framework/system/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Category))
+#10 /Applications/XAMPP/xamppfiles/htdocs/framework/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 /Applications/XAMPP/xamppfiles/htdocs/framework/system/Boot.php(325): CodeIgniter\CodeIgniter->run()
+#12 /Applications/XAMPP/xamppfiles/htdocs/framework/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 /Applications/XAMPP/xamppfiles/htdocs/framework/public/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 /Applications/XAMPP/xamppfiles/htdocs/framework/system/rewrite.php(44): require_once('/Applications/X...')
+#15 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Connection refused in /Applications/XAMPP/xamppfiles/htdocs/framework/system/Database/MySQLi/Connection.php:231
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/framework/system/Database/BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 /Applications/XAMPP/xamppfiles/htdocs/framework/system/Database/BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#2 /Applications/XAMPP/xamppfiles/htdocs/framework/system/Database/BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 /Applications/XAMPP/xamppfiles/htdocs/framework/system/Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#4 /Applications/XAMPP/xamppfiles/htdocs/framework/system/BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#5 /Applications/XAMPP/xamppfiles/htdocs/framework/app/Models/CategoryModel.php(11): CodeIgniter\BaseModel->findAll()
+#6 /Applications/XAMPP/xamppfiles/htdocs/framework/app/Controllers/Category.php(14): App\Models\CategoryModel->getAllCategories()
+#7 /Applications/XAMPP/xamppfiles/htdocs/framework/system/CodeIgniter.php(933): App\Controllers\Category->index()
+#8 /Applications/XAMPP/xamppfiles/htdocs/framework/system/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Category))
+#9 /Applications/XAMPP/xamppfiles/htdocs/framework/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /Applications/XAMPP/xamppfiles/htdocs/framework/system/Boot.php(325): CodeIgniter\CodeIgniter->run()
+#11 /Applications/XAMPP/xamppfiles/htdocs/framework/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#12 /Applications/XAMPP/xamppfiles/htdocs/framework/public/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#13 /Applications/XAMPP/xamppfiles/htdocs/framework/system/rewrite.php(44): require_once('/Applications/X...')
+#14 {main}
+CRITICAL - 2024-12-07 12:52:26 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Connection refused
+[Method: GET, Route: category]
+in SYSTEMPATH/Database/BaseConnection.php on line 467.
+ 1 SYSTEMPATH/Database/BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `category`', [], false)
+ 3 SYSTEMPATH/Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH/BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH/Models/CategoryModel.php(11): CodeIgniter\BaseModel->findAll()
+ 6 APPPATH/Controllers/Category.php(14): App\Models\CategoryModel->getAllCategories()
+ 7 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Category->index()
+ 8 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Category))
+ 9 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH/rewrite.php(44): require_once('/Applications/XAMPP/xamppfiles/htdocs/framework/public/index.php')
+ERROR - 2024-12-07 12:52:30 --> Error connecting to the database: mysqli_sql_exception: Connection refused in /Applications/XAMPP/xamppfiles/htdocs/framework/system/Database/MySQLi/Connection.php:187
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/framework/system/Database/MySQLi/Connection.php(187): mysqli->real_connect('127.0.0.1', 'root', '', 'blog_db', 3306, '', 0)
+#1 /Applications/XAMPP/xamppfiles/htdocs/framework/system/Database/BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 /Applications/XAMPP/xamppfiles/htdocs/framework/system/Database/BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#3 /Applications/XAMPP/xamppfiles/htdocs/framework/system/Database/BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /Applications/XAMPP/xamppfiles/htdocs/framework/system/Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#5 /Applications/XAMPP/xamppfiles/htdocs/framework/system/BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#6 /Applications/XAMPP/xamppfiles/htdocs/framework/app/Models/CategoryModel.php(11): CodeIgniter\BaseModel->findAll()
+#7 /Applications/XAMPP/xamppfiles/htdocs/framework/app/Controllers/Category.php(14): App\Models\CategoryModel->getAllCategories()
+#8 /Applications/XAMPP/xamppfiles/htdocs/framework/system/CodeIgniter.php(933): App\Controllers\Category->index()
+#9 /Applications/XAMPP/xamppfiles/htdocs/framework/system/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Category))
+#10 /Applications/XAMPP/xamppfiles/htdocs/framework/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 /Applications/XAMPP/xamppfiles/htdocs/framework/system/Boot.php(325): CodeIgniter\CodeIgniter->run()
+#12 /Applications/XAMPP/xamppfiles/htdocs/framework/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 /Applications/XAMPP/xamppfiles/htdocs/framework/public/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 /Applications/XAMPP/xamppfiles/htdocs/framework/system/rewrite.php(44): require_once('/Applications/X...')
+#15 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Connection refused in /Applications/XAMPP/xamppfiles/htdocs/framework/system/Database/MySQLi/Connection.php:231
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/framework/system/Database/BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 /Applications/XAMPP/xamppfiles/htdocs/framework/system/Database/BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#2 /Applications/XAMPP/xamppfiles/htdocs/framework/system/Database/BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 /Applications/XAMPP/xamppfiles/htdocs/framework/system/Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#4 /Applications/XAMPP/xamppfiles/htdocs/framework/system/BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#5 /Applications/XAMPP/xamppfiles/htdocs/framework/app/Models/CategoryModel.php(11): CodeIgniter\BaseModel->findAll()
+#6 /Applications/XAMPP/xamppfiles/htdocs/framework/app/Controllers/Category.php(14): App\Models\CategoryModel->getAllCategories()
+#7 /Applications/XAMPP/xamppfiles/htdocs/framework/system/CodeIgniter.php(933): App\Controllers\Category->index()
+#8 /Applications/XAMPP/xamppfiles/htdocs/framework/system/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Category))
+#9 /Applications/XAMPP/xamppfiles/htdocs/framework/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /Applications/XAMPP/xamppfiles/htdocs/framework/system/Boot.php(325): CodeIgniter\CodeIgniter->run()
+#11 /Applications/XAMPP/xamppfiles/htdocs/framework/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#12 /Applications/XAMPP/xamppfiles/htdocs/framework/public/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#13 /Applications/XAMPP/xamppfiles/htdocs/framework/system/rewrite.php(44): require_once('/Applications/X...')
+#14 {main}
+CRITICAL - 2024-12-07 12:52:30 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Connection refused
+[Method: GET, Route: category]
+in SYSTEMPATH/Database/BaseConnection.php on line 467.
+ 1 SYSTEMPATH/Database/BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `category`', [], false)
+ 3 SYSTEMPATH/Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH/BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH/Models/CategoryModel.php(11): CodeIgniter\BaseModel->findAll()
+ 6 APPPATH/Controllers/Category.php(14): App\Models\CategoryModel->getAllCategories()
+ 7 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Category->index()
+ 8 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Category))
+ 9 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH/rewrite.php(44): require_once('/Applications/XAMPP/xamppfiles/htdocs/framework/public/index.php')
+CRITICAL - 2024-12-07 13:00:58 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "header.php"
+[Method: GET, Route: category]
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 41.
+ 1 SYSTEMPATH/View/View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('header.php')
+ 2 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('header', [], true)
+ 3 APPPATH/Views/category.php(1): view('header')
+ 4 SYSTEMPATH/View/View.php(234): include('/Applications/XAMPP/xamppfiles/htdocs/framework/app/Views/category.php')
+ 5 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('category', [], true)
+ 7 APPPATH/Controllers/Category.php(17): view('category', [...])
+ 8 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Category->index()
+ 9 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Category))
+10 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+14 SYSTEMPATH/rewrite.php(44): require_once('/Applications/XAMPP/xamppfiles/htdocs/framework/public/index.php')
+CRITICAL - 2024-12-07 13:13:46 --> ErrorException: Undefined variable $post
+[Method: GET, Route: category]
+in APPPATH/Views/category.php on line 25.
+ 1 APPPATH/Views/category.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $post', '/Applications/XAMPP/xamppfiles/htdocs/framework/app/Views/category.php', 25)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/XAMPP/xamppfiles/htdocs/framework/app/Views/category.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('category', [], true)
+ 5 APPPATH/Controllers/Category.php(17): view('category', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Category->index()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Category))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/rewrite.php(44): require_once('/Applications/XAMPP/xamppfiles/htdocs/framework/public/index.php')
+CRITICAL - 2024-12-07 13:14:23 --> ErrorException: Undefined variable $post
+[Method: GET, Route: category]
+in APPPATH/Views/category.php on line 25.
+ 1 APPPATH/Views/category.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $post', '/Applications/XAMPP/xamppfiles/htdocs/framework/app/Views/category.php', 25)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/XAMPP/xamppfiles/htdocs/framework/app/Views/category.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('category', [], true)
+ 5 APPPATH/Controllers/Category.php(17): view('category', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Category->index()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Category))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/rewrite.php(44): require_once('/Applications/XAMPP/xamppfiles/htdocs/framework/public/index.php')
+CRITICAL - 2024-12-07 13:14:28 --> ErrorException: Undefined variable $post
+[Method: GET, Route: category]
+in APPPATH/Views/category.php on line 25.
+ 1 APPPATH/Views/category.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $post', '/Applications/XAMPP/xamppfiles/htdocs/framework/app/Views/category.php', 25)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/XAMPP/xamppfiles/htdocs/framework/app/Views/category.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('category', [], true)
+ 5 APPPATH/Controllers/Category.php(17): view('category', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Category->index()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Category))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/rewrite.php(44): require_once('/Applications/XAMPP/xamppfiles/htdocs/framework/public/index.php')
+CRITICAL - 2024-12-07 13:14:29 --> ErrorException: Undefined variable $post
+[Method: GET, Route: category]
+in APPPATH/Views/category.php on line 25.
+ 1 APPPATH/Views/category.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $post', '/Applications/XAMPP/xamppfiles/htdocs/framework/app/Views/category.php', 25)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/XAMPP/xamppfiles/htdocs/framework/app/Views/category.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('category', [], true)
+ 5 APPPATH/Controllers/Category.php(17): view('category', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Category->index()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Category))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/rewrite.php(44): require_once('/Applications/XAMPP/xamppfiles/htdocs/framework/public/index.php')
+CRITICAL - 2024-12-07 13:26:24 --> BadMethodCallException: Call to undefined method App\Models\CategoryModel::getCategories
+[Method: GET, Route: blog]
+in SYSTEMPATH/Model.php on line 932.
+ 1 APPPATH/Controllers/Blog.php(18): CodeIgniter\Model->__call('getCategories', [])
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Blog->index()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH/rewrite.php(44): require_once('/Applications/XAMPP/xamppfiles/htdocs/framework/public/index.php')
+CRITICAL - 2024-12-07 13:26:25 --> BadMethodCallException: Call to undefined method App\Models\CategoryModel::getCategories
+[Method: GET, Route: blog]
+in SYSTEMPATH/Model.php on line 932.
+ 1 APPPATH/Controllers/Blog.php(18): CodeIgniter\Model->__call('getCategories', [])
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Blog->index()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH/rewrite.php(44): require_once('/Applications/XAMPP/xamppfiles/htdocs/framework/public/index.php')
+CRITICAL - 2024-12-07 13:26:27 --> BadMethodCallException: Call to undefined method App\Models\CategoryModel::getCategories
+[Method: GET, Route: blog]
+in SYSTEMPATH/Model.php on line 932.
+ 1 APPPATH/Controllers/Blog.php(18): CodeIgniter\Model->__call('getCategories', [])
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Blog->index()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH/rewrite.php(44): require_once('/Applications/XAMPP/xamppfiles/htdocs/framework/public/index.php')
+CRITICAL - 2024-12-07 13:33:32 --> ErrorException: Undefined variable $posts
+[Method: GET, Route: blog]
+in APPPATH/Views/blog.php on line 5.
+ 1 APPPATH/Views/blog.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $posts', '/Applications/XAMPP/xamppfiles/htdocs/framework/app/Views/blog.php', 5)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/XAMPP/xamppfiles/htdocs/framework/app/Views/blog.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('blog', [], true)
+ 5 APPPATH/Controllers/Blog.php(12): view('blog')
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Blog->index()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/rewrite.php(44): require_once('/Applications/XAMPP/xamppfiles/htdocs/framework/public/index.php')
+CRITICAL - 2024-12-07 13:33:33 --> ErrorException: Undefined variable $posts
+[Method: GET, Route: blog]
+in APPPATH/Views/blog.php on line 5.
+ 1 APPPATH/Views/blog.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $posts', '/Applications/XAMPP/xamppfiles/htdocs/framework/app/Views/blog.php', 5)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/XAMPP/xamppfiles/htdocs/framework/app/Views/blog.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('blog', [], true)
+ 5 APPPATH/Controllers/Blog.php(12): view('blog')
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Blog->index()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/rewrite.php(44): require_once('/Applications/XAMPP/xamppfiles/htdocs/framework/public/index.php')
+CRITICAL - 2024-12-07 13:33:35 --> ErrorException: Undefined variable $posts
+[Method: GET, Route: blog]
+in APPPATH/Views/blog.php on line 5.
+ 1 APPPATH/Views/blog.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $posts', '/Applications/XAMPP/xamppfiles/htdocs/framework/app/Views/blog.php', 5)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/XAMPP/xamppfiles/htdocs/framework/app/Views/blog.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('blog', [], true)
+ 5 APPPATH/Controllers/Blog.php(12): view('blog')
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Blog->index()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/rewrite.php(44): require_once('/Applications/XAMPP/xamppfiles/htdocs/framework/public/index.php')
+CRITICAL - 2024-12-07 13:33:48 --> BadMethodCallException: Call to undefined method App\Models\CategoryModel::getCategories
+[Method: GET, Route: blog]
+in SYSTEMPATH/Model.php on line 932.
+ 1 APPPATH/Controllers/Blog.php(18): CodeIgniter\Model->__call('getCategories', [])
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Blog->index()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH/rewrite.php(44): require_once('/Applications/XAMPP/xamppfiles/htdocs/framework/public/index.php')
+CRITICAL - 2024-12-07 13:33:51 --> BadMethodCallException: Call to undefined method App\Models\CategoryModel::getCategories
+[Method: GET, Route: blog]
+in SYSTEMPATH/Model.php on line 932.
+ 1 APPPATH/Controllers/Blog.php(18): CodeIgniter\Model->__call('getCategories', [])
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Blog->index()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH/rewrite.php(44): require_once('/Applications/XAMPP/xamppfiles/htdocs/framework/public/index.php')
+CRITICAL - 2024-12-07 13:33:52 --> BadMethodCallException: Call to undefined method App\Models\CategoryModel::getCategories
+[Method: GET, Route: blog]
+in SYSTEMPATH/Model.php on line 932.
+ 1 APPPATH/Controllers/Blog.php(18): CodeIgniter\Model->__call('getCategories', [])
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Blog->index()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH/rewrite.php(44): require_once('/Applications/XAMPP/xamppfiles/htdocs/framework/public/index.php')
+CRITICAL - 2024-12-07 13:34:26 --> BadMethodCallException: Call to undefined method App\Models\CategoryModel::getCategories
+[Method: GET, Route: blog]
+in SYSTEMPATH/Model.php on line 932.
+ 1 APPPATH/Controllers/Blog.php(18): CodeIgniter\Model->__call('getCategories', [])
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Blog->index()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH/rewrite.php(44): require_once('/Applications/XAMPP/xamppfiles/htdocs/framework/public/index.php')
+CRITICAL - 2024-12-07 13:34:26 --> BadMethodCallException: Call to undefined method App\Models\CategoryModel::getCategories
+[Method: GET, Route: blog]
+in SYSTEMPATH/Model.php on line 932.
+ 1 APPPATH/Controllers/Blog.php(18): CodeIgniter\Model->__call('getCategories', [])
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Blog->index()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH/rewrite.php(44): require_once('/Applications/XAMPP/xamppfiles/htdocs/framework/public/index.php')
+CRITICAL - 2024-12-07 13:34:29 --> BadMethodCallException: Call to undefined method App\Models\CategoryModel::getCategories
+[Method: GET, Route: blog]
+in SYSTEMPATH/Model.php on line 932.
+ 1 APPPATH/Controllers/Blog.php(18): CodeIgniter\Model->__call('getCategories', [])
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Blog->index()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH/rewrite.php(44): require_once('/Applications/XAMPP/xamppfiles/htdocs/framework/public/index.php')
+CRITICAL - 2024-12-07 13:35:33 --> ErrorException: Undefined variable $posts
+[Method: GET, Route: blog]
+in APPPATH/Views/blog.php on line 5.
+ 1 APPPATH/Views/blog.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $posts', '/Applications/XAMPP/xamppfiles/htdocs/framework/app/Views/blog.php', 5)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/XAMPP/xamppfiles/htdocs/framework/app/Views/blog.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('blog', [], true)
+ 5 APPPATH/Controllers/Blog.php(10): view('blog')
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Blog->index()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/rewrite.php(44): require_once('/Applications/XAMPP/xamppfiles/htdocs/framework/public/index.php')
+CRITICAL - 2024-12-07 13:35:33 --> ErrorException: Undefined variable $posts
+[Method: GET, Route: blog]
+in APPPATH/Views/blog.php on line 5.
+ 1 APPPATH/Views/blog.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $posts', '/Applications/XAMPP/xamppfiles/htdocs/framework/app/Views/blog.php', 5)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/XAMPP/xamppfiles/htdocs/framework/app/Views/blog.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('blog', [], true)
+ 5 APPPATH/Controllers/Blog.php(10): view('blog')
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Blog->index()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/rewrite.php(44): require_once('/Applications/XAMPP/xamppfiles/htdocs/framework/public/index.php')
+CRITICAL - 2024-12-07 13:35:35 --> ErrorException: Undefined variable $posts
+[Method: GET, Route: blog]
+in APPPATH/Views/blog.php on line 5.
+ 1 APPPATH/Views/blog.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $posts', '/Applications/XAMPP/xamppfiles/htdocs/framework/app/Views/blog.php', 5)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/XAMPP/xamppfiles/htdocs/framework/app/Views/blog.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('blog', [], true)
+ 5 APPPATH/Controllers/Blog.php(10): view('blog')
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Blog->index()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/rewrite.php(44): require_once('/Applications/XAMPP/xamppfiles/htdocs/framework/public/index.php')
+CRITICAL - 2024-12-07 13:35:37 --> ErrorException: Undefined variable $posts
+[Method: GET, Route: blog]
+in APPPATH/Views/blog.php on line 5.
+ 1 APPPATH/Views/blog.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $posts', '/Applications/XAMPP/xamppfiles/htdocs/framework/app/Views/blog.php', 5)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/XAMPP/xamppfiles/htdocs/framework/app/Views/blog.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('blog', [], true)
+ 5 APPPATH/Controllers/Blog.php(10): view('blog')
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Blog->index()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/rewrite.php(44): require_once('/Applications/XAMPP/xamppfiles/htdocs/framework/public/index.php')
+CRITICAL - 2024-12-07 13:35:51 --> ErrorException: Undefined variable $posts
+[Method: GET, Route: blog]
+in APPPATH/Views/blog.php on line 5.
+ 1 APPPATH/Views/blog.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $posts', '/Applications/XAMPP/xamppfiles/htdocs/framework/app/Views/blog.php', 5)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/XAMPP/xamppfiles/htdocs/framework/app/Views/blog.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('blog', [], true)
+ 5 APPPATH/Controllers/Blog.php(10): view('blog')
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Blog->index()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/rewrite.php(44): require_once('/Applications/XAMPP/xamppfiles/htdocs/framework/public/index.php')
+CRITICAL - 2024-12-07 13:37:28 --> ErrorException: Undefined variable $posts
+[Method: GET, Route: blog]
+in APPPATH/Views/blog.php on line 5.
+ 1 APPPATH/Views/blog.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $posts', '/Applications/XAMPP/xamppfiles/htdocs/framework/app/Views/blog.php', 5)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/XAMPP/xamppfiles/htdocs/framework/app/Views/blog.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('blog', [], true)
+ 5 APPPATH/Controllers/Blog.php(10): view('blog')
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Blog->index()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/rewrite.php(44): require_once('/Applications/XAMPP/xamppfiles/htdocs/framework/public/index.php')
+CRITICAL - 2024-12-07 13:37:41 --> ErrorException: Undefined variable $posts
+[Method: GET, Route: blog]
+in APPPATH/Views/blog.php on line 5.
+ 1 APPPATH/Views/blog.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $posts', '/Applications/XAMPP/xamppfiles/htdocs/framework/app/Views/blog.php', 5)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/XAMPP/xamppfiles/htdocs/framework/app/Views/blog.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('blog', [], true)
+ 5 APPPATH/Controllers/Blog.php(10): view('blog')
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Blog->index()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/rewrite.php(44): require_once('/Applications/XAMPP/xamppfiles/htdocs/framework/public/index.php')
+CRITICAL - 2024-12-07 13:37:42 --> ErrorException: Undefined variable $posts
+[Method: GET, Route: blog]
+in APPPATH/Views/blog.php on line 5.
+ 1 APPPATH/Views/blog.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $posts', '/Applications/XAMPP/xamppfiles/htdocs/framework/app/Views/blog.php', 5)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/XAMPP/xamppfiles/htdocs/framework/app/Views/blog.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('blog', [], true)
+ 5 APPPATH/Controllers/Blog.php(10): view('blog')
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Blog->index()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/rewrite.php(44): require_once('/Applications/XAMPP/xamppfiles/htdocs/framework/public/index.php')
+CRITICAL - 2024-12-07 13:37:43 --> ErrorException: Undefined variable $posts
+[Method: GET, Route: blog]
+in APPPATH/Views/blog.php on line 5.
+ 1 APPPATH/Views/blog.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $posts', '/Applications/XAMPP/xamppfiles/htdocs/framework/app/Views/blog.php', 5)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/XAMPP/xamppfiles/htdocs/framework/app/Views/blog.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('blog', [], true)
+ 5 APPPATH/Controllers/Blog.php(10): view('blog')
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Blog->index()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/rewrite.php(44): require_once('/Applications/XAMPP/xamppfiles/htdocs/framework/public/index.php')
+CRITICAL - 2024-12-07 13:37:49 --> ErrorException: Undefined variable $posts
+[Method: GET, Route: blog]
+in APPPATH/Views/blog.php on line 5.
+ 1 APPPATH/Views/blog.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $posts', '/Applications/XAMPP/xamppfiles/htdocs/framework/app/Views/blog.php', 5)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/XAMPP/xamppfiles/htdocs/framework/app/Views/blog.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('blog', [], true)
+ 5 APPPATH/Controllers/Blog.php(10): view('blog')
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Blog->index()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/rewrite.php(44): require_once('/Applications/XAMPP/xamppfiles/htdocs/framework/public/index.php')
+CRITICAL - 2024-12-07 13:38:16 --> ParseError: syntax error, unexpected token ";"
+[Method: GET, Route: blog]
+in APPPATH/Views/blog.php on line 5.
+ 1 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('blog', [], true)
+ 3 APPPATH/Controllers/Blog.php(10): view('blog')
+ 4 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Blog->index()
+ 5 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH/rewrite.php(44): require_once('/Applications/XAMPP/xamppfiles/htdocs/framework/public/index.php')
+CRITICAL - 2024-12-07 13:38:32 --> ParseError: syntax error, unexpected token "else", expecting end of file
+[Method: GET, Route: blog]
+in APPPATH/Views/blog.php on line 17.
+ 1 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('blog', [], true)
+ 3 APPPATH/Controllers/Blog.php(10): view('blog')
+ 4 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Blog->index()
+ 5 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH/rewrite.php(44): require_once('/Applications/XAMPP/xamppfiles/htdocs/framework/public/index.php')
+CRITICAL - 2024-12-07 13:38:41 --> ParseError: syntax error, unexpected token "endforeach", expecting end of file
+[Method: GET, Route: blog]
+in APPPATH/Views/blog.php on line 14.
+ 1 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('blog', [], true)
+ 3 APPPATH/Controllers/Blog.php(10): view('blog')
+ 4 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Blog->index()
+ 5 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH/rewrite.php(44): require_once('/Applications/XAMPP/xamppfiles/htdocs/framework/public/index.php')
+CRITICAL - 2024-12-07 13:39:31 --> BadMethodCallException: Call to undefined method App\Models\CategoryModel::getCategories
+[Method: GET, Route: blog]
+in SYSTEMPATH/Model.php on line 932.
+ 1 APPPATH/Controllers/Blog.php(19): CodeIgniter\Model->__call('getCategories', [])
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Blog->index()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH/rewrite.php(44): require_once('/Applications/XAMPP/xamppfiles/htdocs/framework/public/index.php')
+CRITICAL - 2024-12-07 13:39:31 --> BadMethodCallException: Call to undefined method App\Models\CategoryModel::getCategories
+[Method: GET, Route: blog]
+in SYSTEMPATH/Model.php on line 932.
+ 1 APPPATH/Controllers/Blog.php(19): CodeIgniter\Model->__call('getCategories', [])
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Blog->index()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH/rewrite.php(44): require_once('/Applications/XAMPP/xamppfiles/htdocs/framework/public/index.php')
+CRITICAL - 2024-12-07 13:39:34 --> BadMethodCallException: Call to undefined method App\Models\CategoryModel::getCategories
+[Method: GET, Route: blog]
+in SYSTEMPATH/Model.php on line 932.
+ 1 APPPATH/Controllers/Blog.php(19): CodeIgniter\Model->__call('getCategories', [])
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Blog->index()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH/rewrite.php(44): require_once('/Applications/XAMPP/xamppfiles/htdocs/framework/public/index.php')
+CRITICAL - 2024-12-07 13:39:35 --> BadMethodCallException: Call to undefined method App\Models\CategoryModel::getCategories
+[Method: GET, Route: blog]
+in SYSTEMPATH/Model.php on line 932.
+ 1 APPPATH/Controllers/Blog.php(19): CodeIgniter\Model->__call('getCategories', [])
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Blog->index()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH/rewrite.php(44): require_once('/Applications/XAMPP/xamppfiles/htdocs/framework/public/index.php')
+CRITICAL - 2024-12-07 13:39:39 --> BadMethodCallException: Call to undefined method App\Models\CategoryModel::getCategories
+[Method: GET, Route: blog]
+in SYSTEMPATH/Model.php on line 932.
+ 1 APPPATH/Controllers/Blog.php(19): CodeIgniter\Model->__call('getCategories', [])
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Blog->index()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH/rewrite.php(44): require_once('/Applications/XAMPP/xamppfiles/htdocs/framework/public/index.php')
+CRITICAL - 2024-12-07 13:40:28 --> BadMethodCallException: Call to undefined method App\Models\CategoryModel::getCategories
+[Method: GET, Route: blog]
+in SYSTEMPATH/Model.php on line 932.
+ 1 APPPATH/Controllers/Blog.php(19): CodeIgniter\Model->__call('getCategories', [])
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Blog->index()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH/rewrite.php(44): require_once('/Applications/XAMPP/xamppfiles/htdocs/framework/public/index.php')
+CRITICAL - 2024-12-07 13:40:28 --> BadMethodCallException: Call to undefined method App\Models\CategoryModel::getCategories
+[Method: GET, Route: blog]
+in SYSTEMPATH/Model.php on line 932.
+ 1 APPPATH/Controllers/Blog.php(19): CodeIgniter\Model->__call('getCategories', [])
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Blog->index()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH/rewrite.php(44): require_once('/Applications/XAMPP/xamppfiles/htdocs/framework/public/index.php')
+CRITICAL - 2024-12-07 13:40:52 --> BadMethodCallException: Call to undefined method App\Models\CategoryModel::getCategories
+[Method: GET, Route: blog]
+in SYSTEMPATH/Model.php on line 932.
+ 1 APPPATH/Controllers/Blog.php(17): CodeIgniter\Model->__call('getCategories', [])
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Blog->index()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH/rewrite.php(44): require_once('/Applications/XAMPP/xamppfiles/htdocs/framework/public/index.php')
+CRITICAL - 2024-12-07 13:40:53 --> BadMethodCallException: Call to undefined method App\Models\CategoryModel::getCategories
+[Method: GET, Route: blog]
+in SYSTEMPATH/Model.php on line 932.
+ 1 APPPATH/Controllers/Blog.php(17): CodeIgniter\Model->__call('getCategories', [])
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Blog->index()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH/rewrite.php(44): require_once('/Applications/XAMPP/xamppfiles/htdocs/framework/public/index.php')
+CRITICAL - 2024-12-07 13:40:55 --> BadMethodCallException: Call to undefined method App\Models\CategoryModel::getCategories
+[Method: GET, Route: blog]
+in SYSTEMPATH/Model.php on line 932.
+ 1 APPPATH/Controllers/Blog.php(17): CodeIgniter\Model->__call('getCategories', [])
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Blog->index()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH/rewrite.php(44): require_once('/Applications/XAMPP/xamppfiles/htdocs/framework/public/index.php')
+CRITICAL - 2024-12-07 13:41:10 --> BadMethodCallException: Call to undefined method App\Models\CategoryModel::getCategories
+[Method: GET, Route: blog]
+in SYSTEMPATH/Model.php on line 932.
+ 1 APPPATH/Controllers/Blog.php(17): CodeIgniter\Model->__call('getCategories', [])
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Blog->index()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH/rewrite.php(44): require_once('/Applications/XAMPP/xamppfiles/htdocs/framework/public/index.php')
+CRITICAL - 2024-12-07 13:42:14 --> BadMethodCallException: Call to undefined method App\Models\CategoryModel::getCategories
+[Method: GET, Route: blog]
+in SYSTEMPATH/Model.php on line 932.
+ 1 APPPATH/Controllers/Blog.php(17): CodeIgniter\Model->__call('getCategories', [])
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Blog->index()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH/rewrite.php(44): require_once('/Applications/XAMPP/xamppfiles/htdocs/framework/public/index.php')
+CRITICAL - 2024-12-07 13:42:14 --> BadMethodCallException: Call to undefined method App\Models\CategoryModel::getCategories
+[Method: GET, Route: blog]
+in SYSTEMPATH/Model.php on line 932.
+ 1 APPPATH/Controllers/Blog.php(17): CodeIgniter\Model->__call('getCategories', [])
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Blog->index()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH/rewrite.php(44): require_once('/Applications/XAMPP/xamppfiles/htdocs/framework/public/index.php')
+CRITICAL - 2024-12-07 13:42:17 --> BadMethodCallException: Call to undefined method App\Models\CategoryModel::getCategories
+[Method: GET, Route: blog]
+in SYSTEMPATH/Model.php on line 932.
+ 1 APPPATH/Controllers/Blog.php(17): CodeIgniter\Model->__call('getCategories', [])
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Blog->index()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH/rewrite.php(44): require_once('/Applications/XAMPP/xamppfiles/htdocs/framework/public/index.php')
+CRITICAL - 2024-12-07 13:45:45 --> BadMethodCallException: Call to undefined method App\Models\CategoryModel::getCategories
+[Method: GET, Route: blog]
+in SYSTEMPATH/Model.php on line 932.
+ 1 APPPATH/Controllers/Blog.php(17): CodeIgniter\Model->__call('getCategories', [])
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Blog->index()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH/rewrite.php(44): require_once('/Applications/XAMPP/xamppfiles/htdocs/framework/public/index.php')
+CRITICAL - 2024-12-07 13:45:46 --> BadMethodCallException: Call to undefined method App\Models\CategoryModel::getCategories
+[Method: GET, Route: blog]
+in SYSTEMPATH/Model.php on line 932.
+ 1 APPPATH/Controllers/Blog.php(17): CodeIgniter\Model->__call('getCategories', [])
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Blog->index()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH/rewrite.php(44): require_once('/Applications/XAMPP/xamppfiles/htdocs/framework/public/index.php')
+CRITICAL - 2024-12-07 13:46:25 --> BadMethodCallException: Call to undefined method App\Models\CategoryModel::getCategories
+[Method: GET, Route: blog]
+in SYSTEMPATH/Model.php on line 932.
+ 1 APPPATH/Controllers/Blog.php(17): CodeIgniter\Model->__call('getCategories', [])
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Blog->index()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH/rewrite.php(44): require_once('/Applications/XAMPP/xamppfiles/htdocs/framework/public/index.php')
+CRITICAL - 2024-12-07 13:46:42 --> BadMethodCallException: Call to undefined method App\Models\CategoryModel::getCategories
+[Method: GET, Route: blog]
+in SYSTEMPATH/Model.php on line 932.
+ 1 APPPATH/Controllers/Blog.php(17): CodeIgniter\Model->__call('getCategories', [])
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Blog->index()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH/rewrite.php(44): require_once('/Applications/XAMPP/xamppfiles/htdocs/framework/public/index.php')
+CRITICAL - 2024-12-07 13:46:43 --> BadMethodCallException: Call to undefined method App\Models\CategoryModel::getCategories
+[Method: GET, Route: blog]
+in SYSTEMPATH/Model.php on line 932.
+ 1 APPPATH/Controllers/Blog.php(17): CodeIgniter\Model->__call('getCategories', [])
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Blog->index()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH/rewrite.php(44): require_once('/Applications/XAMPP/xamppfiles/htdocs/framework/public/index.php')
+CRITICAL - 2024-12-07 14:12:06 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "{post_id}"
+[Method: GET, Route: blog/view/%7Bpost_id%7D]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('blog/view/{post_id}')
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle('blog/view/{post_id}')
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH/rewrite.php(44): require_once('/Applications/XAMPP/xamppfiles/htdocs/framework/public/index.php')
+CRITICAL - 2024-12-07 14:14:29 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "like-unlike.php"
+[Method: GET, Route: blog]
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 41.
+ 1 SYSTEMPATH/View/View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('like-unlike.php')
+ 2 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('like-unlike', [], true)
+ 3 APPPATH/Views/blog.php(2): view('like-unlike')
+ 4 SYSTEMPATH/View/View.php(234): include('/Applications/XAMPP/xamppfiles/htdocs/framework/app/Views/blog.php')
+ 5 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('blog', [], true)
+ 7 APPPATH/Controllers/Blog.php(22): view('blog', [...])
+ 8 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Blog->index()
+ 9 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+10 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+14 SYSTEMPATH/rewrite.php(44): require_once('/Applications/XAMPP/xamppfiles/htdocs/framework/public/index.php')
+CRITICAL - 2024-12-07 14:14:30 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "like-unlike.php"
+[Method: GET, Route: blog]
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 41.
+ 1 SYSTEMPATH/View/View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('like-unlike.php')
+ 2 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('like-unlike', [], true)
+ 3 APPPATH/Views/blog.php(2): view('like-unlike')
+ 4 SYSTEMPATH/View/View.php(234): include('/Applications/XAMPP/xamppfiles/htdocs/framework/app/Views/blog.php')
+ 5 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('blog', [], true)
+ 7 APPPATH/Controllers/Blog.php(22): view('blog', [...])
+ 8 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Blog->index()
+ 9 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+10 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+14 SYSTEMPATH/rewrite.php(44): require_once('/Applications/XAMPP/xamppfiles/htdocs/framework/public/index.php')
+CRITICAL - 2024-12-07 14:14:45 --> ErrorException: ini_set(): Session ini settings cannot be changed when a session is active
+[Method: GET, Route: blog]
+in SYSTEMPATH/Session/Handlers/FileHandler.php on line 74.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ini_set(): Session ini settings cannot be changed when a session is active', '/Applications/XAMPP/xamppfiles/htdocs/framework/system/Session/Handlers/FileHandler.php', 74)
+ 2 SYSTEMPATH/Session/Handlers/FileHandler.php(74): ini_set('session.save_path', '/Applications/XAMPP/xamppfiles/htdocs/framework/writable/session')
+ 3 SYSTEMPATH/Config/Services.php(697): CodeIgniter\Session\Handlers\FileHandler->__construct(Object(Config\Session), '::1')
+ 4 SYSTEMPATH/Config/BaseService.php(312): CodeIgniter\Config\Services::session(Object(Config\Session), false)
+ 5 SYSTEMPATH/Config/BaseService.php(251): CodeIgniter\Config\BaseService::__callStatic('session', [...])
+ 6 SYSTEMPATH/Config/Services.php(668): CodeIgniter\Config\BaseService::getSharedInstance('session', null)
+ 7 SYSTEMPATH/Config/BaseService.php(321): CodeIgniter\Config\Services::session()
+ 8 SYSTEMPATH/Config/BaseService.php(202): CodeIgniter\Config\BaseService::__callStatic('session', [])
+ 9 SYSTEMPATH/Common.php(998): CodeIgniter\Config\BaseService::get('session')
+10 SYSTEMPATH/Common.php(971): service('session')
+11 SYSTEMPATH/CodeIgniter.php(1062): session()
+12 SYSTEMPATH/CodeIgniter.php(542): CodeIgniter\CodeIgniter->storePreviousURL(Object(CodeIgniter\HTTP\SiteURI))
+13 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+15 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+16 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+17 SYSTEMPATH/rewrite.php(44): require_once('/Applications/XAMPP/xamppfiles/htdocs/framework/public/index.php')
+CRITICAL - 2024-12-07 14:14:46 --> ErrorException: ini_set(): Session ini settings cannot be changed when a session is active
+[Method: GET, Route: blog]
+in SYSTEMPATH/Session/Handlers/FileHandler.php on line 74.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ini_set(): Session ini settings cannot be changed when a session is active', '/Applications/XAMPP/xamppfiles/htdocs/framework/system/Session/Handlers/FileHandler.php', 74)
+ 2 SYSTEMPATH/Session/Handlers/FileHandler.php(74): ini_set('session.save_path', '/Applications/XAMPP/xamppfiles/htdocs/framework/writable/session')
+ 3 SYSTEMPATH/Config/Services.php(697): CodeIgniter\Session\Handlers\FileHandler->__construct(Object(Config\Session), '::1')
+ 4 SYSTEMPATH/Config/BaseService.php(312): CodeIgniter\Config\Services::session(Object(Config\Session), false)
+ 5 SYSTEMPATH/Config/BaseService.php(251): CodeIgniter\Config\BaseService::__callStatic('session', [...])
+ 6 SYSTEMPATH/Config/Services.php(668): CodeIgniter\Config\BaseService::getSharedInstance('session', null)
+ 7 SYSTEMPATH/Config/BaseService.php(321): CodeIgniter\Config\Services::session()
+ 8 SYSTEMPATH/Config/BaseService.php(202): CodeIgniter\Config\BaseService::__callStatic('session', [])
+ 9 SYSTEMPATH/Common.php(998): CodeIgniter\Config\BaseService::get('session')
+10 SYSTEMPATH/Common.php(971): service('session')
+11 SYSTEMPATH/CodeIgniter.php(1062): session()
+12 SYSTEMPATH/CodeIgniter.php(542): CodeIgniter\CodeIgniter->storePreviousURL(Object(CodeIgniter\HTTP\SiteURI))
+13 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+15 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+16 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+17 SYSTEMPATH/rewrite.php(44): require_once('/Applications/XAMPP/xamppfiles/htdocs/framework/public/index.php')
+CRITICAL - 2024-12-07 14:14:48 --> ErrorException: ini_set(): Session ini settings cannot be changed when a session is active
+[Method: GET, Route: blog]
+in SYSTEMPATH/Session/Handlers/FileHandler.php on line 74.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ini_set(): Session ini settings cannot be changed when a session is active', '/Applications/XAMPP/xamppfiles/htdocs/framework/system/Session/Handlers/FileHandler.php', 74)
+ 2 SYSTEMPATH/Session/Handlers/FileHandler.php(74): ini_set('session.save_path', '/Applications/XAMPP/xamppfiles/htdocs/framework/writable/session')
+ 3 SYSTEMPATH/Config/Services.php(697): CodeIgniter\Session\Handlers\FileHandler->__construct(Object(Config\Session), '::1')
+ 4 SYSTEMPATH/Config/BaseService.php(312): CodeIgniter\Config\Services::session(Object(Config\Session), false)
+ 5 SYSTEMPATH/Config/BaseService.php(251): CodeIgniter\Config\BaseService::__callStatic('session', [...])
+ 6 SYSTEMPATH/Config/Services.php(668): CodeIgniter\Config\BaseService::getSharedInstance('session', null)
+ 7 SYSTEMPATH/Config/BaseService.php(321): CodeIgniter\Config\Services::session()
+ 8 SYSTEMPATH/Config/BaseService.php(202): CodeIgniter\Config\BaseService::__callStatic('session', [])
+ 9 SYSTEMPATH/Common.php(998): CodeIgniter\Config\BaseService::get('session')
+10 SYSTEMPATH/Common.php(971): service('session')
+11 SYSTEMPATH/CodeIgniter.php(1062): session()
+12 SYSTEMPATH/CodeIgniter.php(542): CodeIgniter\CodeIgniter->storePreviousURL(Object(CodeIgniter\HTTP\SiteURI))
+13 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+15 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+16 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+17 SYSTEMPATH/rewrite.php(44): require_once('/Applications/XAMPP/xamppfiles/htdocs/framework/public/index.php')
+CRITICAL - 2024-12-07 14:14:50 --> ErrorException: ini_set(): Session ini settings cannot be changed when a session is active
+[Method: GET, Route: blog]
+in SYSTEMPATH/Session/Handlers/FileHandler.php on line 74.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ini_set(): Session ini settings cannot be changed when a session is active', '/Applications/XAMPP/xamppfiles/htdocs/framework/system/Session/Handlers/FileHandler.php', 74)
+ 2 SYSTEMPATH/Session/Handlers/FileHandler.php(74): ini_set('session.save_path', '/Applications/XAMPP/xamppfiles/htdocs/framework/writable/session')
+ 3 SYSTEMPATH/Config/Services.php(697): CodeIgniter\Session\Handlers\FileHandler->__construct(Object(Config\Session), '::1')
+ 4 SYSTEMPATH/Config/BaseService.php(312): CodeIgniter\Config\Services::session(Object(Config\Session), false)
+ 5 SYSTEMPATH/Config/BaseService.php(251): CodeIgniter\Config\BaseService::__callStatic('session', [...])
+ 6 SYSTEMPATH/Config/Services.php(668): CodeIgniter\Config\BaseService::getSharedInstance('session', null)
+ 7 SYSTEMPATH/Config/BaseService.php(321): CodeIgniter\Config\Services::session()
+ 8 SYSTEMPATH/Config/BaseService.php(202): CodeIgniter\Config\BaseService::__callStatic('session', [])
+ 9 SYSTEMPATH/Common.php(998): CodeIgniter\Config\BaseService::get('session')
+10 SYSTEMPATH/Common.php(971): service('session')
+11 SYSTEMPATH/CodeIgniter.php(1062): session()
+12 SYSTEMPATH/CodeIgniter.php(542): CodeIgniter\CodeIgniter->storePreviousURL(Object(CodeIgniter\HTTP\SiteURI))
+13 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+15 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+16 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+17 SYSTEMPATH/rewrite.php(44): require_once('/Applications/XAMPP/xamppfiles/htdocs/framework/public/index.php')
+ERROR - 2024-12-07 14:15:31 --> mysqli_sql_exception: Column 'user_id' cannot be null in /Applications/XAMPP/xamppfiles/htdocs/framework/system/Database/MySQLi/Connection.php:312
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/framework/system/Database/MySQLi/Connection.php(312): mysqli->query('INSERT INTO `co...', 0)
+#1 /Applications/XAMPP/xamppfiles/htdocs/framework/system/Database/BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `co...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/framework/system/Database/BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `co...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/framework/system/Database/BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `co...', Array, false)
+#4 /Applications/XAMPP/xamppfiles/htdocs/framework/system/Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+#5 /Applications/XAMPP/xamppfiles/htdocs/framework/system/BaseModel.php(840): CodeIgniter\Model->doInsert(Array)
+#6 /Applications/XAMPP/xamppfiles/htdocs/framework/system/Model.php(802): CodeIgniter\BaseModel->insert(Array, true)
+#7 /Applications/XAMPP/xamppfiles/htdocs/framework/app/Controllers/BlogView.php(52): CodeIgniter\Model->insert(Array)
+#8 /Applications/XAMPP/xamppfiles/htdocs/framework/system/CodeIgniter.php(933): App\Controllers\BlogView->addComment()
+#9 /Applications/XAMPP/xamppfiles/htdocs/framework/system/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BlogView))
+#10 /Applications/XAMPP/xamppfiles/htdocs/framework/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 /Applications/XAMPP/xamppfiles/htdocs/framework/system/Boot.php(325): CodeIgniter\CodeIgniter->run()
+#12 /Applications/XAMPP/xamppfiles/htdocs/framework/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 /Applications/XAMPP/xamppfiles/htdocs/framework/public/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 /Applications/XAMPP/xamppfiles/htdocs/framework/system/rewrite.php(44): require_once('/Applications/X...')
+#15 {main}
+CRITICAL - 2024-12-07 14:15:31 --> CodeIgniter\Database\Exceptions\DatabaseException: Column 'user_id' cannot be null
+[Method: POST, Route: blog/addComment]
+in SYSTEMPATH/Database/BaseConnection.php on line 688.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `comment` (`post_id`, `comment`, `user_id`) VALUES (:post_id:, :comment:, :user_id:)', [...], false)
+ 2 SYSTEMPATH/Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH/BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH/Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH/Controllers/BlogView.php(52): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\BlogView->addComment()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BlogView))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/rewrite.php(44): require_once('/Applications/XAMPP/xamppfiles/htdocs/framework/public/index.php')
+CRITICAL - 2024-12-07 14:15:31 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Column 'user_id' cannot be null
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 317.
+ 1 SYSTEMPATH/Database/BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `comment` (`post_id`, `comment`, `user_id`) VALUES (\'13\', \'hello\', NULL)')
+ 2 SYSTEMPATH/Database/BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `comment` (`post_id`, `comment`, `user_id`) VALUES (\'13\', \'hello\', NULL)')
+ 3 SYSTEMPATH/Database/BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `comment` (`post_id`, `comment`, `user_id`) VALUES (:post_id:, :comment:, :user_id:)', [...], false)
+ 4 SYSTEMPATH/Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 5 SYSTEMPATH/BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 6 SYSTEMPATH/Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 7 APPPATH/Controllers/BlogView.php(52): CodeIgniter\Model->insert([...])
+ 8 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\BlogView->addComment()
+ 9 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BlogView))
+10 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+14 SYSTEMPATH/rewrite.php(44): require_once('/Applications/XAMPP/xamppfiles/htdocs/framework/public/index.php')
+CRITICAL - 2024-12-07 14:15:31 --> [Caused by] mysqli_sql_exception: Column 'user_id' cannot be null
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 312.
+ 1 SYSTEMPATH/Database/MySQLi/Connection.php(312): mysqli->query('INSERT INTO `comment` (`post_id`, `comment`, `user_id`) VALUES (\'13\', \'hello\', NULL)', 0)
+ 2 SYSTEMPATH/Database/BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `comment` (`post_id`, `comment`, `user_id`) VALUES (\'13\', \'hello\', NULL)')
+ 3 SYSTEMPATH/Database/BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `comment` (`post_id`, `comment`, `user_id`) VALUES (\'13\', \'hello\', NULL)')
+ 4 SYSTEMPATH/Database/BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `comment` (`post_id`, `comment`, `user_id`) VALUES (:post_id:, :comment:, :user_id:)', [...], false)
+ 5 SYSTEMPATH/Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH/BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH/Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH/Controllers/BlogView.php(52): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\BlogView->addComment()
+10 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BlogView))
+11 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+15 SYSTEMPATH/rewrite.php(44): require_once('/Applications/XAMPP/xamppfiles/htdocs/framework/public/index.php')
+ERROR - 2024-12-07 14:18:46 --> mysqli_sql_exception: Column 'user_id' cannot be null in /Applications/XAMPP/xamppfiles/htdocs/framework/system/Database/MySQLi/Connection.php:312
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/framework/system/Database/MySQLi/Connection.php(312): mysqli->query('INSERT INTO `co...', 0)
+#1 /Applications/XAMPP/xamppfiles/htdocs/framework/system/Database/BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `co...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/framework/system/Database/BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `co...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/framework/system/Database/BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `co...', Array, false)
+#4 /Applications/XAMPP/xamppfiles/htdocs/framework/system/Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+#5 /Applications/XAMPP/xamppfiles/htdocs/framework/system/BaseModel.php(840): CodeIgniter\Model->doInsert(Array)
+#6 /Applications/XAMPP/xamppfiles/htdocs/framework/system/Model.php(802): CodeIgniter\BaseModel->insert(Array, true)
+#7 /Applications/XAMPP/xamppfiles/htdocs/framework/app/Controllers/BlogView.php(52): CodeIgniter\Model->insert(Array)
+#8 /Applications/XAMPP/xamppfiles/htdocs/framework/system/CodeIgniter.php(933): App\Controllers\BlogView->addComment()
+#9 /Applications/XAMPP/xamppfiles/htdocs/framework/system/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BlogView))
+#10 /Applications/XAMPP/xamppfiles/htdocs/framework/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 /Applications/XAMPP/xamppfiles/htdocs/framework/system/Boot.php(325): CodeIgniter\CodeIgniter->run()
+#12 /Applications/XAMPP/xamppfiles/htdocs/framework/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 /Applications/XAMPP/xamppfiles/htdocs/framework/public/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 /Applications/XAMPP/xamppfiles/htdocs/framework/system/rewrite.php(44): require_once('/Applications/X...')
+#15 {main}
+CRITICAL - 2024-12-07 14:18:46 --> CodeIgniter\Database\Exceptions\DatabaseException: Column 'user_id' cannot be null
+[Method: POST, Route: blog/addComment]
+in SYSTEMPATH/Database/BaseConnection.php on line 688.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `comment` (`post_id`, `comment`, `user_id`) VALUES (:post_id:, :comment:, :user_id:)', [...], false)
+ 2 SYSTEMPATH/Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH/BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH/Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH/Controllers/BlogView.php(52): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\BlogView->addComment()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BlogView))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/rewrite.php(44): require_once('/Applications/XAMPP/xamppfiles/htdocs/framework/public/index.php')
+CRITICAL - 2024-12-07 14:18:46 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Column 'user_id' cannot be null
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 317.
+ 1 SYSTEMPATH/Database/BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `comment` (`post_id`, `comment`, `user_id`) VALUES (\'10\', \'güzel içerik\', NULL)')
+ 2 SYSTEMPATH/Database/BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `comment` (`post_id`, `comment`, `user_id`) VALUES (\'10\', \'güzel içerik\', NULL)')
+ 3 SYSTEMPATH/Database/BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `comment` (`post_id`, `comment`, `user_id`) VALUES (:post_id:, :comment:, :user_id:)', [...], false)
+ 4 SYSTEMPATH/Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 5 SYSTEMPATH/BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 6 SYSTEMPATH/Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 7 APPPATH/Controllers/BlogView.php(52): CodeIgniter\Model->insert([...])
+ 8 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\BlogView->addComment()
+ 9 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BlogView))
+10 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+14 SYSTEMPATH/rewrite.php(44): require_once('/Applications/XAMPP/xamppfiles/htdocs/framework/public/index.php')
+CRITICAL - 2024-12-07 14:18:46 --> [Caused by] mysqli_sql_exception: Column 'user_id' cannot be null
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 312.
+ 1 SYSTEMPATH/Database/MySQLi/Connection.php(312): mysqli->query('INSERT INTO `comment` (`post_id`, `comment`, `user_id`) VALUES (\'10\', \'güzel içerik\', NULL)', 0)
+ 2 SYSTEMPATH/Database/BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `comment` (`post_id`, `comment`, `user_id`) VALUES (\'10\', \'güzel içerik\', NULL)')
+ 3 SYSTEMPATH/Database/BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `comment` (`post_id`, `comment`, `user_id`) VALUES (\'10\', \'güzel içerik\', NULL)')
+ 4 SYSTEMPATH/Database/BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `comment` (`post_id`, `comment`, `user_id`) VALUES (:post_id:, :comment:, :user_id:)', [...], false)
+ 5 SYSTEMPATH/Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH/BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH/Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH/Controllers/BlogView.php(52): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\BlogView->addComment()
+10 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BlogView))
+11 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+15 SYSTEMPATH/rewrite.php(44): require_once('/Applications/XAMPP/xamppfiles/htdocs/framework/public/index.php')
+CRITICAL - 2024-12-07 14:25:27 --> ErrorException: Undefined variable $comments
+[Method: GET, Route: blog/view/10]
+in APPPATH/Views/blog-view.php on line 23.
+ 1 APPPATH/Views/blog-view.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $comments', '/Applications/XAMPP/xamppfiles/htdocs/framework/app/Views/blog-view.php', 23)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/XAMPP/xamppfiles/htdocs/framework/app/Views/blog-view.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('blog-view', [], true)
+ 5 APPPATH/Controllers/BlogView.php(27): view('blog-view', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\BlogView->index('10')
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BlogView))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/rewrite.php(44): require_once('/Applications/XAMPP/xamppfiles/htdocs/framework/public/index.php')
+CRITICAL - 2024-12-07 14:25:31 --> ErrorException: Undefined variable $comments
+[Method: GET, Route: blog/view/10]
+in APPPATH/Views/blog-view.php on line 23.
+ 1 APPPATH/Views/blog-view.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $comments', '/Applications/XAMPP/xamppfiles/htdocs/framework/app/Views/blog-view.php', 23)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/XAMPP/xamppfiles/htdocs/framework/app/Views/blog-view.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('blog-view', [], true)
+ 5 APPPATH/Controllers/BlogView.php(27): view('blog-view', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\BlogView->index('10')
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BlogView))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/rewrite.php(44): require_once('/Applications/XAMPP/xamppfiles/htdocs/framework/public/index.php')
+CRITICAL - 2024-12-07 14:25:36 --> ErrorException: Undefined variable $comments
+[Method: GET, Route: blog/view/10]
+in APPPATH/Views/blog-view.php on line 25.
+ 1 APPPATH/Views/blog-view.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $comments', '/Applications/XAMPP/xamppfiles/htdocs/framework/app/Views/blog-view.php', 25)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/XAMPP/xamppfiles/htdocs/framework/app/Views/blog-view.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('blog-view', [], true)
+ 5 APPPATH/Controllers/BlogView.php(27): view('blog-view', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\BlogView->index('10')
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BlogView))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/rewrite.php(44): require_once('/Applications/XAMPP/xamppfiles/htdocs/framework/public/index.php')
+CRITICAL - 2024-12-07 14:25:41 --> ErrorException: Undefined variable $comments
+[Method: GET, Route: blog/view/10]
+in APPPATH/Views/blog-view.php on line 25.
+ 1 APPPATH/Views/blog-view.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $comments', '/Applications/XAMPP/xamppfiles/htdocs/framework/app/Views/blog-view.php', 25)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/XAMPP/xamppfiles/htdocs/framework/app/Views/blog-view.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('blog-view', [], true)
+ 5 APPPATH/Controllers/BlogView.php(27): view('blog-view', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\BlogView->index('10')
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BlogView))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/rewrite.php(44): require_once('/Applications/XAMPP/xamppfiles/htdocs/framework/public/index.php')
+CRITICAL - 2024-12-07 14:25:43 --> ErrorException: Undefined variable $comments
+[Method: GET, Route: blog/view/10]
+in APPPATH/Views/blog-view.php on line 25.
+ 1 APPPATH/Views/blog-view.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $comments', '/Applications/XAMPP/xamppfiles/htdocs/framework/app/Views/blog-view.php', 25)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/XAMPP/xamppfiles/htdocs/framework/app/Views/blog-view.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('blog-view', [], true)
+ 5 APPPATH/Controllers/BlogView.php(27): view('blog-view', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\BlogView->index('10')
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BlogView))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/rewrite.php(44): require_once('/Applications/XAMPP/xamppfiles/htdocs/framework/public/index.php')
+CRITICAL - 2024-12-07 14:25:54 --> ErrorException: Undefined variable $comments
+[Method: GET, Route: blog/view/10]
+in APPPATH/Views/blog-view.php on line 25.
+ 1 APPPATH/Views/blog-view.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $comments', '/Applications/XAMPP/xamppfiles/htdocs/framework/app/Views/blog-view.php', 25)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/XAMPP/xamppfiles/htdocs/framework/app/Views/blog-view.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('blog-view', [], true)
+ 5 APPPATH/Controllers/BlogView.php(27): view('blog-view', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\BlogView->index('10')
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BlogView))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/rewrite.php(44): require_once('/Applications/XAMPP/xamppfiles/htdocs/framework/public/index.php')
+CRITICAL - 2024-12-07 18:32:03 --> ErrorException: Undefined variable $likeCount
+[Method: GET, Route: blog]
+in APPPATH/Views/blog.php on line 60.
+ 1 APPPATH/Views/blog.php(60): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $likeCount', '/Applications/XAMPP/xamppfiles/htdocs/framework/app/Views/blog.php', 60)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/XAMPP/xamppfiles/htdocs/framework/app/Views/blog.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('blog', [], true)
+ 5 APPPATH/Controllers/Blog.php(22): view('blog', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Blog->index()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/rewrite.php(44): require_once('/Applications/XAMPP/xamppfiles/htdocs/framework/public/index.php')
+CRITICAL - 2024-12-07 18:32:05 --> ErrorException: Undefined variable $likeCount
+[Method: GET, Route: blog]
+in APPPATH/Views/blog.php on line 60.
+ 1 APPPATH/Views/blog.php(60): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $likeCount', '/Applications/XAMPP/xamppfiles/htdocs/framework/app/Views/blog.php', 60)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/XAMPP/xamppfiles/htdocs/framework/app/Views/blog.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('blog', [], true)
+ 5 APPPATH/Controllers/Blog.php(22): view('blog', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Blog->index()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/rewrite.php(44): require_once('/Applications/XAMPP/xamppfiles/htdocs/framework/public/index.php')
+CRITICAL - 2024-12-07 18:32:32 --> ErrorException: Undefined variable $likeCount
+[Method: GET, Route: blog]
+in APPPATH/Views/blog.php on line 57.
+ 1 APPPATH/Views/blog.php(57): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $likeCount', '/Applications/XAMPP/xamppfiles/htdocs/framework/app/Views/blog.php', 57)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/XAMPP/xamppfiles/htdocs/framework/app/Views/blog.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('blog', [], true)
+ 5 APPPATH/Controllers/Blog.php(22): view('blog', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Blog->index()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/rewrite.php(44): require_once('/Applications/XAMPP/xamppfiles/htdocs/framework/public/index.php')
+CRITICAL - 2024-12-07 18:32:33 --> ErrorException: Undefined variable $likeCount
+[Method: GET, Route: blog]
+in APPPATH/Views/blog.php on line 57.
+ 1 APPPATH/Views/blog.php(57): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $likeCount', '/Applications/XAMPP/xamppfiles/htdocs/framework/app/Views/blog.php', 57)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/XAMPP/xamppfiles/htdocs/framework/app/Views/blog.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('blog', [], true)
+ 5 APPPATH/Controllers/Blog.php(22): view('blog', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Blog->index()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/rewrite.php(44): require_once('/Applications/XAMPP/xamppfiles/htdocs/framework/public/index.php')
+CRITICAL - 2024-12-07 18:36:13 --> ErrorException: ini_set(): Session ini settings cannot be changed when a session is active
+[Method: GET, Route: blog]
+in SYSTEMPATH/Session/Handlers/FileHandler.php on line 74.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ini_set(): Session ini settings cannot be changed when a session is active', '/Applications/XAMPP/xamppfiles/htdocs/framework/system/Session/Handlers/FileHandler.php', 74)
+ 2 SYSTEMPATH/Session/Handlers/FileHandler.php(74): ini_set('session.save_path', '/Applications/XAMPP/xamppfiles/htdocs/framework/writable/session')
+ 3 SYSTEMPATH/Config/Services.php(697): CodeIgniter\Session\Handlers\FileHandler->__construct(Object(Config\Session), '::1')
+ 4 SYSTEMPATH/Config/BaseService.php(312): CodeIgniter\Config\Services::session(Object(Config\Session), false)
+ 5 SYSTEMPATH/Config/BaseService.php(251): CodeIgniter\Config\BaseService::__callStatic('session', [...])
+ 6 SYSTEMPATH/Config/Services.php(668): CodeIgniter\Config\BaseService::getSharedInstance('session', null)
+ 7 SYSTEMPATH/Config/BaseService.php(321): CodeIgniter\Config\Services::session()
+ 8 SYSTEMPATH/Config/BaseService.php(202): CodeIgniter\Config\BaseService::__callStatic('session', [])
+ 9 SYSTEMPATH/Common.php(998): CodeIgniter\Config\BaseService::get('session')
+10 SYSTEMPATH/Common.php(971): service('session')
+11 SYSTEMPATH/CodeIgniter.php(1062): session()
+12 SYSTEMPATH/CodeIgniter.php(542): CodeIgniter\CodeIgniter->storePreviousURL(Object(CodeIgniter\HTTP\SiteURI))
+13 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+15 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+16 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+17 SYSTEMPATH/rewrite.php(44): require_once('/Applications/XAMPP/xamppfiles/htdocs/framework/public/index.php')
+CRITICAL - 2024-12-07 18:36:15 --> ErrorException: ini_set(): Session ini settings cannot be changed when a session is active
+[Method: GET, Route: blog]
+in SYSTEMPATH/Session/Handlers/FileHandler.php on line 74.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ini_set(): Session ini settings cannot be changed when a session is active', '/Applications/XAMPP/xamppfiles/htdocs/framework/system/Session/Handlers/FileHandler.php', 74)
+ 2 SYSTEMPATH/Session/Handlers/FileHandler.php(74): ini_set('session.save_path', '/Applications/XAMPP/xamppfiles/htdocs/framework/writable/session')
+ 3 SYSTEMPATH/Config/Services.php(697): CodeIgniter\Session\Handlers\FileHandler->__construct(Object(Config\Session), '::1')
+ 4 SYSTEMPATH/Config/BaseService.php(312): CodeIgniter\Config\Services::session(Object(Config\Session), false)
+ 5 SYSTEMPATH/Config/BaseService.php(251): CodeIgniter\Config\BaseService::__callStatic('session', [...])
+ 6 SYSTEMPATH/Config/Services.php(668): CodeIgniter\Config\BaseService::getSharedInstance('session', null)
+ 7 SYSTEMPATH/Config/BaseService.php(321): CodeIgniter\Config\Services::session()
+ 8 SYSTEMPATH/Config/BaseService.php(202): CodeIgniter\Config\BaseService::__callStatic('session', [])
+ 9 SYSTEMPATH/Common.php(998): CodeIgniter\Config\BaseService::get('session')
+10 SYSTEMPATH/Common.php(971): service('session')
+11 SYSTEMPATH/CodeIgniter.php(1062): session()
+12 SYSTEMPATH/CodeIgniter.php(542): CodeIgniter\CodeIgniter->storePreviousURL(Object(CodeIgniter\HTTP\SiteURI))
+13 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+15 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+16 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+17 SYSTEMPATH/rewrite.php(44): require_once('/Applications/XAMPP/xamppfiles/htdocs/framework/public/index.php')
+CRITICAL - 2024-12-07 18:36:22 --> ErrorException: ini_set(): Session ini settings cannot be changed when a session is active
+[Method: GET, Route: blog]
+in SYSTEMPATH/Session/Handlers/FileHandler.php on line 74.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ini_set(): Session ini settings cannot be changed when a session is active', '/Applications/XAMPP/xamppfiles/htdocs/framework/system/Session/Handlers/FileHandler.php', 74)
+ 2 SYSTEMPATH/Session/Handlers/FileHandler.php(74): ini_set('session.save_path', '/Applications/XAMPP/xamppfiles/htdocs/framework/writable/session')
+ 3 SYSTEMPATH/Config/Services.php(697): CodeIgniter\Session\Handlers\FileHandler->__construct(Object(Config\Session), '::1')
+ 4 SYSTEMPATH/Config/BaseService.php(312): CodeIgniter\Config\Services::session(Object(Config\Session), false)
+ 5 SYSTEMPATH/Config/BaseService.php(251): CodeIgniter\Config\BaseService::__callStatic('session', [...])
+ 6 SYSTEMPATH/Config/Services.php(668): CodeIgniter\Config\BaseService::getSharedInstance('session', null)
+ 7 SYSTEMPATH/Config/BaseService.php(321): CodeIgniter\Config\Services::session()
+ 8 SYSTEMPATH/Config/BaseService.php(202): CodeIgniter\Config\BaseService::__callStatic('session', [])
+ 9 SYSTEMPATH/Common.php(998): CodeIgniter\Config\BaseService::get('session')
+10 SYSTEMPATH/Common.php(971): service('session')
+11 SYSTEMPATH/CodeIgniter.php(1062): session()
+12 SYSTEMPATH/CodeIgniter.php(542): CodeIgniter\CodeIgniter->storePreviousURL(Object(CodeIgniter\HTTP\SiteURI))
+13 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+15 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+16 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+17 SYSTEMPATH/rewrite.php(44): require_once('/Applications/XAMPP/xamppfiles/htdocs/framework/public/index.php')
+CRITICAL - 2024-12-07 18:36:23 --> ErrorException: ini_set(): Session ini settings cannot be changed when a session is active
+[Method: GET, Route: blog]
+in SYSTEMPATH/Session/Handlers/FileHandler.php on line 74.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ini_set(): Session ini settings cannot be changed when a session is active', '/Applications/XAMPP/xamppfiles/htdocs/framework/system/Session/Handlers/FileHandler.php', 74)
+ 2 SYSTEMPATH/Session/Handlers/FileHandler.php(74): ini_set('session.save_path', '/Applications/XAMPP/xamppfiles/htdocs/framework/writable/session')
+ 3 SYSTEMPATH/Config/Services.php(697): CodeIgniter\Session\Handlers\FileHandler->__construct(Object(Config\Session), '::1')
+ 4 SYSTEMPATH/Config/BaseService.php(312): CodeIgniter\Config\Services::session(Object(Config\Session), false)
+ 5 SYSTEMPATH/Config/BaseService.php(251): CodeIgniter\Config\BaseService::__callStatic('session', [...])
+ 6 SYSTEMPATH/Config/Services.php(668): CodeIgniter\Config\BaseService::getSharedInstance('session', null)
+ 7 SYSTEMPATH/Config/BaseService.php(321): CodeIgniter\Config\Services::session()
+ 8 SYSTEMPATH/Config/BaseService.php(202): CodeIgniter\Config\BaseService::__callStatic('session', [])
+ 9 SYSTEMPATH/Common.php(998): CodeIgniter\Config\BaseService::get('session')
+10 SYSTEMPATH/Common.php(971): service('session')
+11 SYSTEMPATH/CodeIgniter.php(1062): session()
+12 SYSTEMPATH/CodeIgniter.php(542): CodeIgniter\CodeIgniter->storePreviousURL(Object(CodeIgniter\HTTP\SiteURI))
+13 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+15 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+16 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+17 SYSTEMPATH/rewrite.php(44): require_once('/Applications/XAMPP/xamppfiles/htdocs/framework/public/index.php')
+CRITICAL - 2024-12-07 18:44:00 --> ErrorException: session_start(): Ignoring session_start() because a session is already active
+[Method: GET, Route: blog/view/10]
+in APPPATH/Views/blog-view.php on line 22.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8, 'session_start(): Ignoring session_start() because a session is already active', '/Applications/XAMPP/xamppfiles/htdocs/framework/app/Views/blog-view.php', 22)
+ 2 APPPATH/Views/blog-view.php(22): session_start()
+ 3 SYSTEMPATH/View/View.php(234): include('/Applications/XAMPP/xamppfiles/htdocs/framework/app/Views/blog-view.php')
+ 4 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('blog-view', [], true)
+ 6 APPPATH/Controllers/BlogView.php(31): view('blog-view', [...])
+ 7 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\BlogView->index('10')
+ 8 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BlogView))
+ 9 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH/rewrite.php(44): require_once('/Applications/XAMPP/xamppfiles/htdocs/framework/public/index.php')
