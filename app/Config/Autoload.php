@@ -40,7 +40,13 @@ class Autoload extends AutoloadConfig
      * @var array<string, list<string>|string>
      */
     public $psr4 = [
+
         APP_NAMESPACE => APPPATH,
+        'Config'      => APPPATH . 'Config',
+        'App\Models\Admin' => APPPATH . 'Models/admin',
+
+
+
     ];
 
     /**
@@ -90,5 +96,6 @@ class Autoload extends AutoloadConfig
      *
      * @var list<string>
      */
-    public $helpers = [];
+    public $helpers = ['url', 'session'];
+
 }

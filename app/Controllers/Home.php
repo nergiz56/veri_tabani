@@ -1,48 +1,40 @@
 <?php
-
 namespace App\Controllers;
 
-use CodeIgniter\Controller;
+use App\Models\UserModel;
 
-class Home extends Controller
+class Home extends BaseController
 {
-    public function index()
-    {
-        // index.php view dosyasını yükle
-        return view('index');
-    }
-
-    public function about()
-    {
-        // about.php view dosyasını yükle
-        return view('about');
-    }
-
-    public function marketing()
-    {
-        // marketing.php view dosyasını yükle
-        return view('marketing');
-    }
-
-    public function blog()
-    {
-        // blog.php view dosyasını yükle
-        return view('blog');
-    }
-
-    public function contact()
-    {
-        // contact.php view dosyasını yükle
-        return view('contact');
-    }
-    public function register()
-    {
-        // about.php view dosyasını yükle
-        return view('register');
-    }
     public function login()
     {
-        // about.php view dosyasını yükle
-        return view('login');
+        return view('login'); // Login sayfasını render et
+    }
+
+    public function loginProcess()
+    {
+        $username = $this->request->getPost('uname');
+        $password = $this->request->getPost('pass');
+
+        $userModel = new \App\Models\UserModel();
+        $user = $userModel->where('username', $username)->first();
+
+        if ($user && password_verify($password, $user['password'])) {
+            // Kullanıcı adı session'a kaydediliyor
+            session()->set('username', $username);
+            return redirect()->to('/blog');
+        } else {
+            return redirect()->to('/login')
+                ->with('error', 'Kullanıcı adı veya şifre hatalı!')
+                ->withInput();
+        }
+    }
+
+    public function logout()
+    {
+        // Oturumu kapat
+        session()->destroy();
+
+        // Login sayfasına yönlendir
+        return redirect()->to('/login');
     }
 }
